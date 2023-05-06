@@ -1,0 +1,49 @@
+th,td
+{
+    text-align: center;
+}
+.td-success
+{
+    color: #198754;
+    font-weight: bold;
+}
+.td-danger
+{
+    color: #dc3545;
+    font-weight: bold;
+}
+.td-info
+{
+    color: #00A0F0;
+    font-weight: bold;
+}
+input[type="checkbox"]
+{
+    /*
+    margin-top:10px;
+    */
+}
+.questionBox
+{
+    border: 1px solid darkgray;
+    padding: 10px;
+    padding-right: 20px;
+    min-height: 150px;
+    border-radius: 10px;
+}
+img
+{
+    /*
+    border: 1px solid #ddd;
+    padding: 2px;
+    height: 130px;
+*/
+    min-height: 150px;
+    max-width:100%;
+    max-height:100%;
+}
+p
+{
+    text-align: justify;
+}
+
